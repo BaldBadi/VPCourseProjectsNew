@@ -1,0 +1,22 @@
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.exe.config
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.exe
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.pdb
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.AssemblyReference.cache
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture_13_HW4.Form1.resources
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture_13_HW4.Properties.Resources.resources
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.GenerateResource.cache
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.CoreCompileInputs.cache
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.exe
+C:\Users\adela\source\repos\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.pdb
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.exe.config
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.exe
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\bin\Debug\Lecture 13_HW4.pdb
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.AssemblyReference.cache
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture_13_HW4.Form1.resources
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture_13_HW4.Properties.Resources.resources
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.GenerateResource.cache
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.csproj.CoreCompileInputs.cache
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.exe
+C:\Users\zerolone\Downloads\ww\Lecture 13_HW4\Lecture 13_HW4\obj\Debug\Lecture 13_HW4.pdb
